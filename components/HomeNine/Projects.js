@@ -8,7 +8,7 @@ class Projects extends Component {
                 <div className="container-fluid">
                     <div className="section-title">
                         <h2>Games & Packages</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                        {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p> */}
                     </div>
  
                     <div className="row">
