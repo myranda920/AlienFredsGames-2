@@ -13,10 +13,7 @@ class ContactInfo extends Component {
                                 </div>
                                 <h3>Email Here</h3>
                                 <p>
-                                    admin@taiker.com
-                                </p>
-                                <p>
-                                    contactinfo@taiker.com
+                                    alienfredsgames@gmail.com
                                 </p>
                             </div>
                         </div>
@@ -26,8 +23,8 @@ class ContactInfo extends Component {
                                 <div className="icon">
                                     <i className="flaticon-phone-call"></i>
                                 </div>
-                                <h3>Location Here</h3>
-                                <p>2750 Quadra Street Victoria Road, New York, Canada</p>
+                                <h3>Call Here</h3>
+                                <p>+818-307-9796</p>
                             </div>
                         </div>
 
@@ -36,9 +33,8 @@ class ContactInfo extends Component {
                                 <div className="icon">
                                     <i className="flaticon-marker"></i>
                                 </div>
-                                <h3>Call Here</h3>
-                                <p>+123 456 7890</p>
-                                <p>+241 452 4526</p>
+                                <h3>Location Here</h3>
+                                <p>San Fernando Valley, CA</p>
                             </div>
                         </div>
                     </div>

@@ -9,7 +9,7 @@ class Banner extends Component {
                     <div className="d-table-cell">
                         <div className="container mt-80">
                             <div className="banner-content text-center">
-                                <h1>Welcome to Alien Fred's Games</h1>
+                                <h1>Welcome to Alien Fred's Games 🛸 </h1>
                                 <p>We abduct boredom and deliver fun. Enjoy your guests and eliminate the stress!</p>
                                 
                                 <div className="banner-btn">

@@ -10,6 +10,7 @@ import LetsGetToWork from '../components/Common/LetsGetToWork';
 import Clients from '../components/HomeSeven/Clients';
 import SubscribeBoxed from '../components/Common/SubscribeBoxed';
 import Footer from '../components/Layout/Footer';
+import ContactInfo from '../components/Contact/ContactInfo';
 
 class Index extends Component {
     render() {
@@ -17,6 +18,7 @@ class Index extends Component {
             <>
                 <NavbarTwo />
                 <Banner />
+                <ContactInfo />
                 <Projects />
                 <FunFacts />
                 <TestimonialsTwo />

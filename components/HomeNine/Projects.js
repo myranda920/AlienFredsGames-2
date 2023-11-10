@@ -11,6 +11,153 @@ class Projects extends Component {
                         {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p> */}
                     </div>
  
+                    {/* Games Section */}
+                    <div className="projects-area ptb-100">
+                    <div className="container-fluid">
+                        <div className="row">
+                            <div className="col-lg-4 col-md-6 col-sm-6">
+                                <div className="single-projects-box">
+                                    <img src="/images/projects-image/project1.jpg" alt="image" />
+
+                                    <div className="projects-content">
+                                        <h3>
+                                            <Link href="/project-details">
+                                                <a>Jumbo Connect 4</a>
+                                            </Link>
+                                        </h3>
+                                        <span className="category">$55</span>
+                                    </div>
+
+                                    <div className="plus-icon">
+                                        <Link href="/project-details">
+                                            <a className="popup-btn">
+                                                <span></span>
+                                            </a>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="col-lg-4 col-md-6 col-sm-6">
+                                <div className="single-projects-box">
+                                    <img src="/images/projects-image/project2.jpg" alt="image" />
+
+                                    <div className="projects-content">
+                                        <h3>
+                                            <Link href="/project-details">
+                                                <a>Jumbo Jenga</a>
+                                            </Link>
+                                        </h3>
+                                        <span className="category">$60</span>
+                                    </div>
+
+                                    <div className="plus-icon">
+                                        <Link href="/project-details">
+                                            <a className="popup-btn">
+                                                <span></span>
+                                            </a>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="col-lg-4 col-md-6 col-sm-6">
+                                <div className="single-projects-box">
+                                    <img src="/images/projects-image/project3.jpg"alt="image" />
+
+                                    <div className="projects-content">
+                                        <h3>
+                                            <Link href="/project-details">
+                                                <a>Pro-Size Cornhole</a>
+                                            </Link>
+                                        </h3>
+                                        <span className="category">$55</span>
+                                    </div>
+
+                                    <div className="plus-icon">
+                                        <Link href="/project-details">
+                                            <a className="popup-btn">
+                                                <span></span>
+                                            </a>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="col-lg-4 col-md-6 col-sm-6">
+                                <div className="single-projects-box">
+                                    <img src="/images/projects-image/project4.jpg" alt="image" />
+
+                                    <div className="projects-content">
+                                        <h3>
+                                            <Link href="/project-details">
+                                                <a>Jumbo Tic-Tac-Toe</a>
+                                            </Link>
+                                        </h3>
+                                        <span className="category">$55</span>
+                                    </div>
+
+                                    <div className="plus-icon">
+                                        <Link href="/project-details">
+                                            <a className="popup-btn">
+                                                <span></span>
+                                            </a>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="col-lg-4 col-md-6 col-sm-6">
+                                <div className="single-projects-box">
+                                    <img src="/images/projects-image/project5.jpg" alt="image" />
+
+                                    <div className="projects-content">
+                                        <h3>
+                                            <Link href="/project-details">
+                                                <a>Jumbo Beer-Pong</a>
+                                            </Link>
+                                        </h3>
+                                        <span className="category">$125</span>
+                                    </div>
+
+                                    <div className="plus-icon">
+                                        <Link href="/project-details">
+                                            <a className="popup-btn">
+                                                <span></span>
+                                            </a>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+
+                            {/* <div className="col-lg-4 col-md-6 col-sm-6">
+                                <div className="single-projects-box">
+                                    <img src="/images/projects-image/project6.jpg" alt="image" />
+
+                                    <div className="projects-content">
+                                        <h3>
+                                            <Link href="/project-details">
+                                                <a>Social Media Marketing</a>
+                                            </Link>
+                                        </h3>
+                                        <span className="category">Development</span>
+                                    </div>
+
+                                    <div className="plus-icon">
+                                        <Link href="/project-details">
+                                            <a className="popup-btn">
+                                                <span></span>
+                                            </a>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div> */}
+                        </div>
+                    </div>
+                </div>
+
+                {/* Other Projects Option */}
+
                     <div className="row">
                         <div className="col-lg-4 col-sm-6 col-xl-3">
                             <div className="work-card">

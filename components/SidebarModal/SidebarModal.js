@@ -15,7 +15,7 @@ export class SidebarModal extends Component {
                     <div className="sidebar-modal-inner">
                         <div className="sidebar-about-area">
                             <div className="title">
-                                <h2>About Us</h2>
+                                <h2>About Us 🛸 </h2>
                                 <p>At Alien Fred’s Games, we started with a simple love for gathering friends and family for game nights, which evolved into a game rental service. We are known as the go-to source for games among our friends and relatives, and now we extend the unique and memorable experience to the wider community. Our mission is to create memories by offering a diverse range of high-quality games for various occasions. We offer unique custom options that you won’t find elsewhere. We feature a wide variety of games from the popular classics to latest trending games. Our collection is constantly expanding. </p>
                             </div>
                         </div>
