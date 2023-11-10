@@ -7,56 +7,36 @@ class PricingStyleThree extends Component {
             <section className="pricing-area-two pt-100 pb-70 bg-f4f7fe">
                 <div className="container">
                     <div className="section-title">
-                        <h2>Our Affordable Pricing Plans</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h2>Current Package Deals</h2>
+                        {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> */}
                     </div>
 
                     <div className="row justify-content-center">
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-pricing-table center">
                                 <div className="pricing-header">
-                                    <h3>Weekly plan</h3>
+                                    <h3>Bronze Package</h3>
                                 </div>
 
                                 <div className="price">
-                                    <sup>$</sup> 120 <sub>/ Per week</sub>
+                                    <sup>$</sup> 155 
                                 </div>
 
                                 <ul className="pricing-features">
                                     <li>
                                         <i className='bx bxs-badge-check'></i>
-                                        SEO & Branding
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-badge-check'></i>
-                                        Digital Marketing
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-badge-check'></i>
-                                        Google Analytics
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-badge-check'></i>
-                                        Branding Solutions
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-badge-check'></i>
-                                        Digital Accounts
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-x-circle red'></i>
-                                        Pay-per-Click
+                                        Get Three Games
                                     </li>
                                     <li> 
                                         <i className='bx bxs-x-circle red'></i>
-                                        24/7 Support
+                                        Excluding Jumbo Beer Pong
                                     </li>
                                 </ul>
 
                                 <div className="btn-box">
                                     <Link href="/contact">
                                         <a className="default-btn">
-                                            Select the plan 
+                                            Contact Us!
                                             <span></span>
                                         </a>
                                     </Link>
@@ -67,48 +47,28 @@ class PricingStyleThree extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-pricing-table center">
                                 <div className="pricing-header">
-                                    <h3>Month plan</h3>
+                                    <h3>Silver Package</h3>
                                 </div>
 
                                 <div className="price">
-                                    <sup>$</sup> 840 <sub>/ Per month</sub>
+                                    <sup>$</sup> 195 
                                 </div>
 
                                 <ul className="pricing-features">
                                     <li>
                                         <i className='bx bxs-badge-check'></i>
-                                        SEO & Branding
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-badge-check'></i>
-                                        Digital Marketing
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-badge-check'></i>
-                                        Google Analytics
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-badge-check'></i>
-                                        Branding Solutions
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-badge-check'></i>
-                                        Digital Accounts
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-badge-check'></i>
-                                        Pay-per-Click
+                                        Get Four Games
                                     </li>
                                     <li> 
                                         <i className='bx bxs-x-circle red'></i>
-                                        24/7 Support
+                                        Excluding Jumbo Beer Pong
                                     </li>
                                 </ul>
 
                                 <div className="btn-box">
                                     <Link href="/contact">
                                         <a className="default-btn">
-                                            Select the plan 
+                                            Contact Us!
                                             <span></span>
                                         </a>
                                     </Link>
@@ -119,48 +79,28 @@ class PricingStyleThree extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-pricing-table center">
                                 <div className="pricing-header">
-                                    <h3>Yearly plan</h3>
+                                    <h3>Gold Package</h3>
                                 </div>
 
                                 <div className="price">
-                                    <sup>$</sup> 3,600 <sub> / Per yearly</sub>
+                                    <sup>$</sup> 295 
                                 </div>
 
                                 <ul className="pricing-features">
                                     <li>
                                         <i className='bx bxs-badge-check'></i>
-                                        SEO & Branding
+                                        Get ALL 5 Games
                                     </li>
                                     <li>
                                         <i className='bx bxs-badge-check'></i>
-                                        Digital Marketing
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-badge-check'></i>
-                                        Google Analytics
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-badge-check'></i>
-                                        Branding Solutions
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-badge-check'></i>
-                                        Digital Accounts
-                                    </li>
-                                    <li>
-                                        <i className='bx bxs-badge-check'></i>
-                                        Pay-per-Click
-                                    </li>
-                                    <li> 
-                                        <i className='bx bxs-badge-check'></i>
-                                        24/7 Support
+                                        Includes Jumbo Beer Pong
                                     </li>
                                 </ul>
 
                                 <div className="btn-box">
                                     <Link href="/contact">
                                         <a className="default-btn">
-                                            Select the plan 
+                                            Contact Us!
                                             <span></span>
                                         </a>
                                     </Link>

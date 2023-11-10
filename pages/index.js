@@ -20,9 +20,9 @@ class Index extends Component {
                 <Banner />
                 <ContactInfo />
                 <Projects />
+                <PricingStyleFive />
                 <FunFacts />
                 <TestimonialsTwo />
-                <PricingStyleFive />
                 <OurTeamTwo />
                 <LetsGetToWork /> 
                 <Clients />
