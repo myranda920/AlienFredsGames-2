@@ -9,25 +9,25 @@ class WhyChooseUs extends Component {
                         <div className="row align-items-center">
                             <div className="col-lg-6 col-md-12">
                                 <div className="why-choose-content">
-                                    <span className="sub-title">Why Choose Us</span>
-                                    <h2>The Key To Your Motivation And Success</h2>
-                                    <p>We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication.</p>
+                                    <span className="sub-title">DELIVERY, SET-UP, BREAKDOWN & PICK-UP</span>
+                                    <h2>We offer convenient delivery and setup</h2>
+                                    <p>Services, ensuring that the jumbo games are placed in your desired location and set-up for immediate enjoyment. Our team will handle the transportation, installation and arrangement of the games, allowing you to focus on other aspects of your event.</p>
 
                                     <div className="features-text">
-                                        <h4><i className="flaticon-tick"></i> Core Development</h4>
-                                        <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
+                                        <h4><i className="flaticon-tick"></i> Delivery</h4>
+                                        <p>Currently only delivering within a 15 mile radius from zip code 91345 (Mission Hills) </p>
                                     </div>
 
                                     <div className="features-text">
-                                        <h4><i className="flaticon-tick"></i> Define Your Choices</h4>
-                                        <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
+                                        <h4><i className="flaticon-tick"></i> Additional Details</h4>
+                                        <p>PLEASE NOTE: a minimum of 2 games must be rented. </p>
                                     </div>
                                 </div>
                             </div>
 
                             <div className="col-lg-6 col-md-12">
                                 <div className="why-choose-image">
-                                    <img src="/images/why-choose-img1.png" alt="image" />
+                                    <img src="/images/allgames.jpg" alt="image" />
                                 </div>
                             </div>
                         </div>

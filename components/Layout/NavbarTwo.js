@@ -65,7 +65,7 @@ class NavbarTwo extends Component {
                             <nav className="navbar navbar-expand-md navbar-light">
                                 <Link href="/">
                                     <a className="navbar-brand">
-                                        <img src="/images/AFGLogo1.png" className="black-logo" alt="logo" />
+                                        <img src="/images/AFGLogogreentransparent.png" className="black-logo" alt="logo" />
                                         <img src="/images/AFGLogo1.png"  className="white-logo" alt="logo" />
                                     </a>
                                 </Link>

@@ -46,8 +46,8 @@ class OurTeamTwo extends Component {
                 <section className="team-area pt-100 pb-70">
                     <div className="container">
                         <div className="section-title">
-                            <span className="sub-title">Our Team</span>
-                            <h2>Our Expert Team</h2>
+                            <span className="sub-title">Alien Fred's Games</span>
+                            <h2>Add-Ons</h2>
                         </div>
 
                         {this.state.display ? <OwlCarousel 
@@ -56,9 +56,9 @@ class OurTeamTwo extends Component {
                         >
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team-image/team10.jpg" alt="team" />
+                                    <img src="/images/team-image/patioheatersimage2.jpg" alt="team" />
 
-                                    <div className="social">
+                                    {/* <div className="social">
                                         <a href="https://www.linkedin.com/" target="_blank">
                                             <i className="fab fa-instagram"></i>
                                         </a>
@@ -71,20 +71,20 @@ class OurTeamTwo extends Component {
                                         <a href="https://www.instagram.com/" target="_blank">
                                             <i className="fab fa-instagram"></i>
                                         </a>
-                                    </div>
+                                    </div> */}
                                 </div>
                                 
                                 <div className="content">
-                                    <h3>John Smith</h3>
-                                    <span>CEO & Founder</span>
+                                    <h3>Patio Heaters</h3>
+                                    {/* <span>CEO & Founder</span> */}
                                 </div>
                             </div>
           
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team-image/team11.jpg" alt="team" />
+                                    <img src="/images/team-image/jumboprojector.png" alt="team" />
                                     
-                                    <div className="social">
+                                    {/* <div className="social">
                                         <a href="https://www.linkedin.com/" target="_blank">
                                             <i className="fab fa-instagram"></i>
                                         </a>
@@ -97,20 +97,20 @@ class OurTeamTwo extends Component {
                                         <a href="https://www.instagram.com/" target="_blank">
                                             <i className="fab fa-instagram"></i>
                                         </a>
-                                    </div>
+                                    </div> */}
                                 </div>
 
                                 <div className="content">
-                                    <h3>Lucy Eva</h3>
-                                    <span>Backend Team Leader</span>
+                                    <h3>Jumbo Monitor and Projector</h3>
+                                    {/* <span>Backend Team Leader</span> */}
                                 </div>
                             </div>
         
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team-image/team12.jpg" alt="team" />
+                                    <img src="/images/team-image/axethrowingimage.png" alt="team" />
 
-                                    <div className="social">
+                                    {/* <div className="social">
                                         <a href="https://www.linkedin.com/" target="_blank">
                                             <i className="fab fa-instagram"></i>
                                         </a>
@@ -123,20 +123,20 @@ class OurTeamTwo extends Component {
                                         <a href="https://www.instagram.com/" target="_blank">
                                             <i className="fab fa-instagram"></i>
                                         </a>
-                                    </div>
+                                    </div> */}
                                 </div>
 
                                 <div className="content">
-                                    <h3>Steven Smith</h3>
-                                    <span>Web Developer</span>
+                                    <h3>Playing Axe Throwing Game</h3>
+                                    {/* <span>Web Developer</span> */}
                                 </div>
                             </div>
 
-                            <div className="single-team-box">
+                            {/* <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team-image/team13.jpg" alt="team" />
+                                    <img src="/images/team-image/team13.jpg" alt="team" /> */}
 
-                                    <div className="social">
+                                    {/* <div className="social">
                                         <a href="https://www.linkedin.com/" target="_blank">
                                             <i className="fab fa-instagram"></i>
                                         </a>
@@ -149,16 +149,16 @@ class OurTeamTwo extends Component {
                                         <a href="https://www.instagram.com/" target="_blank">
                                             <i className="fab fa-instagram"></i>
                                         </a>
-                                    </div>
-                                </div>
+                                    </div> */}
+                                {/* </div> */}
 
-                                <div className="content">
-                                    <h3>Mark Smith</h3>
+                                {/* <div className="content">
+                                    <h3>Playing Axe Throwing Game</h3>
                                     <span>Web Developer</span>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="single-team-box">
+                            {/* <div className="single-team-box">
                                 <div className="image">
                                     <img src="/images/team-image/team14.jpg" alt="team" />
 
@@ -182,7 +182,7 @@ class OurTeamTwo extends Component {
                                     <h3>Williams Smith</h3>
                                     <span>Web Developer</span>
                                 </div>
-                            </div>
+                            </div> */}
                         </OwlCarousel> : ''}
                     </div>
 

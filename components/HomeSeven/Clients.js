@@ -8,9 +8,9 @@ class Clients extends Component {
                 <section className="partner-area ptb-100">
                     <div className="container">
                         <div className="section-title">
-                            <span className="sub-title">Clients</span>
-                            <h2>Our Loving Clients</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <span className="sub-title">Alien Fred's Games</span>
+                            <h2>Partnerships</h2>
+                            {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> */}
                         </div>
 
                         <div className="row align-items-center">
