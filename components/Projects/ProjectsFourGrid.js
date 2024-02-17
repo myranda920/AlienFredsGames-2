@@ -18,19 +18,19 @@ class ProjectsFourGrid extends Component {
                                 
                                 <div className="content">
                                     <span>
-                                        <Link href="/projects2">
-                                            <a>Development</a>
+                                        <Link href="">
+                                            <a>Add-On</a>
                                         </Link>
                                     </span>
                                     <h3>
-                                        <Link href="/project-details">
-                                            <a>Designing a better cinema experience</a>
+                                        <Link href="">
+                                            <a>Patio Heater</a>
                                         </Link>
                                     </h3>
                                     
-                                    <Link href="/project-details">
+                                    {/* <Link href="/project-details">
                                         <a className="work-btn">Read More</a>
-                                    </Link>
+                                    </Link> */}
                                 </div>
                             </div>
                         </div>
@@ -42,18 +42,18 @@ class ProjectsFourGrid extends Component {
                                 <div className="content">
                                     <span>
                                         <Link href="/projects2">
-                                            <a>Web Design</a>
+                                            <a>Add-On</a>
                                         </Link>
                                     </span>
                                     <h3>
                                         <Link href="/project-details">
-                                            <a>Building design process within teams</a>
+                                            <a>Name of Add-On</a>
                                         </Link>
                                     </h3>
                                     
-                                    <Link href="/project-details">
+                                    {/* <Link href="/project-details">
                                         <a className="work-btn">Read More</a>
-                                    </Link>
+                                    </Link> */}
                                 </div>
                             </div>
                         </div>
@@ -65,18 +65,18 @@ class ProjectsFourGrid extends Component {
                                 <div className="content">
                                     <span>
                                         <Link href="/projects2">
-                                            <a>eCommerce</a>
+                                            <a>Add-On</a>
                                         </Link>
                                     </span>
                                     <h3>
                                         <Link href="/project-details">
-                                            <a>How intercom brings play eCommerce</a>
+                                            <a>Name of Add-On</a>
                                         </Link>
                                     </h3>
                                         
-                                    <Link href="/project-details">
+                                    {/* <Link href="/project-details">
                                         <a className="work-btn">Read More</a>
-                                    </Link>
+                                    </Link> */}
                                 </div>
                             </div>
                         </div>
@@ -88,23 +88,23 @@ class ProjectsFourGrid extends Component {
                                 <div className="content">
                                     <span>
                                         <Link href="/projects2">
-                                            <a>React</a>
+                                            <a>Add-On</a>
                                         </Link>
                                     </span>
                                     <h3>
                                         <Link href="/project-details">
-                                            <a>How to start a project with Reactjs</a>
+                                            <a>Name of Add-On</a>
                                         </Link>
                                     </h3>
                                         
-                                    <Link href="/project-details">
+                                    {/* <Link href="/project-details">
                                         <a className="work-btn">Read More</a>
-                                    </Link>
+                                    </Link> */}
                                 </div>
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-sm-6 col-xl-3">
+                        {/* <div className="col-lg-4 col-sm-6 col-xl-3">
                             <div className="work-card">
                                 <img src="/images/works/work5.jpg" alt="image" />
                                 
@@ -125,9 +125,9 @@ class ProjectsFourGrid extends Component {
                                     </Link>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
-                        <div className="col-lg-4 col-sm-6 col-xl-3">
+                        {/* <div className="col-lg-4 col-sm-6 col-xl-3">
                             <div className="work-card">
                                 <img src="/images/works/work6.jpg" alt="image" />
                                 
@@ -148,10 +148,10 @@ class ProjectsFourGrid extends Component {
                                     </Link>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
-                        <div className="col-lg-4 col-sm-6 col-xl-3">
-                            <div className="work-card">
+                        {/* <div className="col-lg-4 col-sm-6 col-xl-3"> */}
+                            {/* <div className="work-card">
                                 <img src="/images/works/work7.jpg" alt="image" />
                                 
                                 <div className="content">
@@ -171,9 +171,9 @@ class ProjectsFourGrid extends Component {
                                     </Link>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
-                        <div className="col-lg-4 col-sm-6 col-xl-3">
+                        {/* <div className="col-lg-4 col-sm-6 col-xl-3">
                             <div className="work-card">
                                 <img src="/images/works/work8.jpg" alt="image" />
                                 
@@ -194,9 +194,9 @@ class ProjectsFourGrid extends Component {
                                     </Link>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
  
-                        <div className="col-lg-4 col-sm-6 col-xl-3">
+                        {/* <div className="col-lg-4 col-sm-6 col-xl-3">
                             <div className="work-card">
                                 <img src="/images/works/work9.jpg" alt="image" />
                                 
@@ -217,9 +217,9 @@ class ProjectsFourGrid extends Component {
                                     </Link>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
-                        <div className="col-lg-4 col-sm-6 col-xl-3">
+                        {/* <div className="col-lg-4 col-sm-6 col-xl-3">
                             <div className="work-card">
                                 <img src="/images/works/work10.jpg" alt="image" />
                                 
@@ -240,9 +240,9 @@ class ProjectsFourGrid extends Component {
                                     </Link>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
-                        <div className="col-lg-4 col-sm-6 col-xl-3">
+                        {/* <div className="col-lg-4 col-sm-6 col-xl-3">
                             <div className="work-card">
                                 <img src="/images/works/work11.jpg" alt="image" />
                                 
@@ -263,9 +263,9 @@ class ProjectsFourGrid extends Component {
                                     </Link>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
-                        <div className="col-lg-4 col-sm-6 col-xl-3">
+                        {/* <div className="col-lg-4 col-sm-6 col-xl-3">
                             <div className="work-card">
                                 <img src="/images/works/work12.jpg" alt="image" />
                                 
@@ -286,7 +286,7 @@ class ProjectsFourGrid extends Component {
                                     </Link>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
                         {/* Pagination */}
                         {/* <div className="col-lg-12 col-sm-12"> */}
