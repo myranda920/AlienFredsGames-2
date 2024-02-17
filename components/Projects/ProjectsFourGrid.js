@@ -7,8 +7,8 @@ class ProjectsFourGrid extends Component {
             <div className="works-area ptb-100">
                 <div className="container-fluid">
                     <div className="section-title">
-                        <h2>All Projects</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                        <h2>Add Ons</h2>
+                        {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p> */}
                     </div>
  
                     <div className="row">
@@ -289,8 +289,8 @@ class ProjectsFourGrid extends Component {
                         </div>
 
                         {/* Pagination */}
-                        <div className="col-lg-12 col-sm-12">
-                            <div className="pagination-area">
+                        {/* <div className="col-lg-12 col-sm-12"> */}
+                            {/* <div className="pagination-area">
                                 <Link href="/projects2">
                                     <a className="prev page-numbers">
                                         <i className="fas fa-angle-double-left"></i>
@@ -312,7 +312,7 @@ class ProjectsFourGrid extends Component {
                                     </a>
                                 </Link>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

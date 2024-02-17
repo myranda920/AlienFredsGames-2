@@ -36,5 +36,5 @@
         "stripe": "^8.191.0",
         "sweetalert2": "^11.4.8",
         "sweetalert2-react-content": "^4.2.0"
-    }
+      }
 }

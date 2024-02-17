@@ -4,7 +4,7 @@ import dynamic from 'next/dynamic';
 const ModalVideo = dynamic(() => import('react-modal-video'), {
     ssr: false
 });
-import Lightbox from 'react-image-lightbox';
+// import Lightbox from 'react-image-lightbox';
 
 const images = [
     '/images/projects-image/project6.jpg',
@@ -62,7 +62,7 @@ class ProjectDetailsContent extends Component {
                             </div>
 
                             {isOpenImage && (
-                                <Lightbox
+                                {/* <Lightbox
                                     mainSrc={images[photoIndex]}
                                     nextSrc={images[(photoIndex + 1) % images.length]}
                                     prevSrc={images[(photoIndex + images.length - 1) % images.length]}
@@ -77,7 +77,7 @@ class ProjectDetailsContent extends Component {
                                             photoIndex: (photoIndex + 1) % images.length,
                                         })
                                     }
-                                />
+                                /> */}
                             )}
 
                             <div className="col-lg-12 col-md-12">

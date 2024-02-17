@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ScrollAnimation from 'react-animate-on-scroll';
+// import ScrollAnimation from 'react-animate-on-scroll';
 import Link from 'next/link';
 
 class Banner extends Component {
@@ -26,7 +26,7 @@ class Banner extends Component {
 
                                 <div className="col-lg-6 col-md-12">
                                     <div className="hero-banner-image">
-                                        <ScrollAnimation animateIn="fadeInDown" delay={50} animateOnce={true}>
+                                        {/* <ScrollAnimation animateIn="fadeInDown" delay={50} animateOnce={true}>
                                             <img src="/images/banner-image/main.png" alt="main" />
                                         </ScrollAnimation>
  
@@ -36,7 +36,7 @@ class Banner extends Component {
  
                                         <ScrollAnimation animateIn="fadeInLeft" delay={50} animateOnce={true}>
                                             <img src="/images/banner-image/banner-shape2.png" alt="carpet" />
-                                        </ScrollAnimation>
+                                        </ScrollAnimation> */}
                                     </div>
                                 </div>
                             </div>
@@ -46,9 +46,9 @@ class Banner extends Component {
 
                 {/* Shape Images */}
                 <div className="shape-img1">
-                    <ScrollAnimation animateIn="fadeInUp" delay={100} animateOnce={true}>
+                    {/* <ScrollAnimation animateIn="fadeInUp" delay={100} animateOnce={true}>
                         <img src="/images/shape/shape1.png" alt="image" />
-                    </ScrollAnimation>
+                    </ScrollAnimation> */}
                 </div>
                 <div className="shape-img2">
                     <img src="/images/shape/shape2.svg" alt="image" />

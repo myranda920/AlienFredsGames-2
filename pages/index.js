@@ -8,19 +8,21 @@ import Clients from '../components/HomeSeven/Clients';
 import Footer from '../components/Layout/Footer';
 import ContactInfo from '../components/Contact/ContactInfo';
 import WhyChooseUs from '../components/Services/WhyChooseUs';
+import Projects2 from './projects2';
 
 class Index extends Component {
     render() {
         return (
             <>
                 <NavbarTwo />
-                <Banner />
-                <ContactInfo />
+                <Banner /> 
                 <Projects />
-                <PricingStyleFive />
-                <OurTeamTwo />
+                {/* <PricingStyleFive /> */}
+                <Projects2 />
+                {/* <OurTeamTwo /> */}
                 <WhyChooseUs />
                 <Clients />
+                {/* <ContactInfo /> */}
                 <Footer/> 
             </>
         );

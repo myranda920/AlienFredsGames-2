@@ -7,7 +7,7 @@ class Projects extends Component {
             <div className="works-area ptb-100">
                 <div className="container-fluid">
                     <div className="section-title">
-                        <h2>Games & Packages</h2>
+                        <h2>Games & More</h2>
                         {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p> */}
                     </div>
  

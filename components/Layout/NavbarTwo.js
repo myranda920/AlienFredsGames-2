@@ -378,7 +378,11 @@ class NavbarTwo extends Component {
                                                 </li>
                                             </ul>
                                         </li> */}
-
+                                        <li className="nav-item">
+                                            <Link href="/contact" activeClassName="active">
+                                                <a className="nav-link">Partnerships</a>
+                                            </Link>
+                                        </li>
                                         <li className="nav-item">
                                             <Link href="/contact" activeClassName="active">
                                                 <a className="nav-link">Contact</a>

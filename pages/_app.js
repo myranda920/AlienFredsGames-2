@@ -6,7 +6,7 @@ import '/styles/boxicons.min.css';
 import 'react-toastify/dist/ReactToastify.css';
 import '../node_modules/react-modal-video/scss/modal-video.scss';
 import 'react-accessible-accordion/dist/fancy-example.css';
-import 'react-image-lightbox/style.css';
+// import 'react-image-lightbox/style.css';
 import '../node_modules/react-modal-video/css/modal-video.min.css';
 
 // Global CSS 

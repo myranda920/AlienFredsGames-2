@@ -8,18 +8,18 @@ class Projects2 extends Component {
     render() {
         return (
             <>
-                <Navbar />
+                {/* <Navbar />
 
                 <PageHeader 
                     pageTitle="Projects Style Two" 
                     breadcrumbTextOne="Home" 
                     breadcrumbUrl="/" 
                     breadcrumbTextTwo="Projects Style Two" 
-                />
+                /> */}
 
                 <ProjectsFourGrid />
                 
-                <Footer />
+                {/* <Footer /> */}
             </>
         );
     }

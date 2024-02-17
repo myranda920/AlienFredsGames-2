@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Link from 'next/link';
 import dynamic from 'next/dynamic';
-const OwlCarousel = dynamic(import('react-owl-carousel3'));
+// const OwlCarousel = dynamic(import('react-owl-carousel3'));
 
 const options = {
     loop: true,
@@ -50,7 +50,7 @@ class OurTeamTwo extends Component {
                             <h2>Add-Ons</h2>
                         </div>
 
-                        {this.state.display ? <OwlCarousel 
+                        {this.state.display ? <div
                             className="team-slider owl-carousel owl-theme"
                             {...options}
                         >
@@ -183,7 +183,7 @@ class OurTeamTwo extends Component {
                                     <span>Web Developer</span>
                                 </div>
                             </div> */}
-                        </OwlCarousel> : ''}
+                        </div> : ''}
                     </div>
 
                     {/* Animation shape image */}

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ScrollAnimation from 'react-animate-on-scroll';
+// import ScrollAnimation from 'react-animate-on-scroll';
 
 class Banner extends Component {
     render() {
@@ -24,13 +24,13 @@ class Banner extends Component {
 
                                 <div className="col-lg-5 col-md-12">
                                     <div className="banner-image">
-                                        <ScrollAnimation animateIn="fadeInUp" delay={50} animateOnce={true}>
+                                        {/* <ScrollAnimation animateIn="fadeInUp" delay={50} animateOnce={true}>
                                             <img src="/images/rocket.png" alt="image" />
                                         </ScrollAnimation>
  
                                         <ScrollAnimation animateIn="fadeIn" delay={100} animateOnce={true}>
                                             <img src="/images/rocket-shape.png" alt="image" />
-                                        </ScrollAnimation>
+                                        </ScrollAnimation> */}
                                     </div>
                                 </div>
                             </div>
