@@ -27,7 +27,7 @@ class WhyChooseUs extends Component {
 
                             <div className="col-lg-6 col-md-12">
                                 <div className="why-choose-image">
-                                    <img src="/images/allgames.jpg" alt="image" />
+                                    <img src="/images/allGames.jpg" alt="image" />
                                 </div>
                             </div>
                         </div>
