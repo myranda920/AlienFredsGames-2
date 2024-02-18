@@ -63,9 +63,9 @@ class NavbarTwo extends Component {
                     <div className="main-nav">
                         <div className="container">
                             <nav className="navbar navbar-expand-md navbar-light">
-                                <Link href="/">
+                                <Link href="">
                                     <a className="navbar-brand">
-                                        <img src="/images/afgGreenLogo.jpg" className="black-logo" alt="logo" />
+                                        <img src="/images/fredsFaceLogo2.jpg" className="black-logo" alt="logo" />
                                         <img src="/images/afgWhiteLogo.jpg"  className="white-logo" alt="logo" />
                                     </a>
                                 </Link>
@@ -263,7 +263,7 @@ class NavbarTwo extends Component {
                                         </li> */}
 
                                         <li className="nav-item">
-                                            <Link href="#" activeClassName="active">
+                                            <Link href="" activeClassName="active">
                                                 <a className="nav-link" onClick={e => e.preventDefault()}>
                                                    Games {/* Services <i className="fas fa-chevron-down"></i> */}
                                                 </a>
@@ -379,12 +379,12 @@ class NavbarTwo extends Component {
                                             </ul>
                                         </li> */}
                                         <li className="nav-item">
-                                            <Link href="/contact" activeClassName="active">
+                                            <Link href="" activeClassName="active">
                                                 <a className="nav-link">Partnerships</a>
                                             </Link>
                                         </li>
                                         <li className="nav-item">
-                                            <Link href="/contact" activeClassName="active">
+                                            <Link href="" activeClassName="active">
                                                 <a className="nav-link">Contact</a>
                                             </Link>
                                         </li>

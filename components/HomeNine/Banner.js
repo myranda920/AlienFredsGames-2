@@ -13,13 +13,13 @@ class Banner extends Component {
                                 <p>We abduct boredom and deliver fun. Enjoy your guests and eliminate the stress!</p>
                                 
                                 <div className="banner-btn">
-                                    <Link href="/contact">
+                                    <Link href="">
                                         <a className="default-btn mr-4">
                                             View Games <span></span>
                                         </a>
                                     </Link>
 
-                                    <Link href="/index9">
+                                    <Link href="">
                                         <a className="default-btn-two">
                                             Contact Us! <span></span>
                                         </a>
