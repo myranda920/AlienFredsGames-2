@@ -136,6 +136,52 @@ games must be rented.
                                 </div>
                             </div>
 
+                            <div className="col-lg-4 col-md-6 col-sm-6">
+                                <div className="single-projects-box">
+                                    <img src="/images/projects-image/snakesGameImage.jpg" alt="image" />
+
+                                    <div className="projects-content">
+                                        <h3>
+                                            <Link href="/project-details">
+                                                <a>Snakes & Ladders</a>
+                                            </Link>
+                                        </h3>
+                                        <span className="category">$40</span>
+                                    </div>
+
+                                    <div className="plus-icon">
+                                        <Link href="/project-details">
+                                            <a className="popup-btn">
+                                                <span></span>
+                                            </a>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="col-lg-4 col-md-6 col-sm-6">
+                                <div className="single-projects-box">
+                                    <img src="/images/projects-image/axeThrowingGame1.jpg" alt="image" />
+
+                                    <div className="projects-content">
+                                        <h3>
+                                            <Link href="/project-details">
+                                                <a>Axe Throwing Game</a>
+                                            </Link>
+                                        </h3>
+                                        <span className="category">$40</span>
+                                    </div>
+
+                                    <div className="plus-icon">
+                                        <Link href="/project-details">
+                                            <a className="popup-btn">
+                                                <span></span>
+                                            </a>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+
                             {/* <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-projects-box">
                                     <img src="/images/projects-image/project6.jpg" alt="image" />
