@@ -3183,7 +3183,7 @@ Projects Area CSS
 }
 
 .single-projects-box .plus-icon a:hover {
-  background-color: #fa7070;
+  background-color: rgb(42, 210, 27);
 }
 
 .single-projects-box:hover .projects-content {
@@ -7229,7 +7229,7 @@ Footer Area CSS
 
 .single-footer-widget .footer-contact-info li i {
   font-size: 35px;
-  color: #fa7070;
+  color: #57e331;
   position: absolute;
   left: 0;
   top: 0;
@@ -8487,7 +8487,7 @@ SaaS Startup Page CSS
   z-index: 1;
   color: #ffffff;
   text-transform: uppercase;
-  background-color: #fa7070;
+  background-color: #77bf34;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   border-radius: 5px;
